@@ -1,7 +1,7 @@
 import learnbridgeImg from "@/assets/project-learnbridge.jpg";
 import podcrazeImg from "@/assets/project-podcraze.jpg";
 import scraperImg from "@/assets/project-scraper.jpg";
-import resumeUrl from "@/assets/AGHOSH_PR_Resume.pdf";
+import resumeUrl from "@/assets/AGHOSH_PR.pdf";
 
 export const socials = {
   github: "https://github.com/AghoshPR",

@@ -99,7 +99,7 @@ export function Hero() {
             </a>
             <a
               href={socials.resume}
-              download="AGHOSH_PR_Resume.pdf"
+              download="AGHOSH_PR.pdf"
               className="glass-card inline-flex items-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-transform hover:scale-105"
             >
               <Download className="h-4 w-4" /> Download Resume
